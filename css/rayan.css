@@ -1,0 +1,38 @@
+.maindiv {
+    background-color: rgba(254, 252, 252, 0.917);
+    text-align: center;
+
+}
+
+
+
+
+p {
+    color: rgb(98, 103, 103);
+    width: fit-content;
+}
+
+
+.divone{
+    display: inline-block;
+    width: 23%;
+
+}
+.divtwo{
+    display: inline-block;
+    width: 23%;
+
+}
+.divthree{
+    display: inline-block;
+    width: 23%;
+
+}
+.divfour{
+    display: inline-block;
+    width: 23%;
+
+}
+i{
+    color: orangered;
+}
